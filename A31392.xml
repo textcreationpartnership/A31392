@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Caution to married couples being a true relation how a man in Nightingale-Lane, having beat and abused his vvife, murthered a tub-man that endevoured to stop him from killing her with a half-pike, for which he was carried to Newgate the 15th of May, 1677.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31392</idno>
+            <idno type="STC">Wing C1561</idno>
+            <idno type="STC">ESTC R32603</idno>
+            <idno type="EEBO-CITATION">12730105</idno>
+            <idno type="OCLC">ocm 12730105</idno>
+            <idno type="VID">66424</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66424)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1522:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Caution to married couples being a true relation how a man in Nightingale-Lane, having beat and abused his vvife, murthered a tub-man that endevoured to stop him from killing her with a half-pike, for which he was carried to Newgate the 15th of May, 1677.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed May the 16, 1677, Ro. L'Estrange."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66424:1" rendition="simple:additions"/>
+            <p>A CAUTION TO MARRIED COUPLES: Being a true RELATION How a Man in <hi>Nightingale-lane</hi> Having beat and abuſed his VVife, Murthered a Tub-man that en<g ref="char:EOLhyphen"/>devoured to ſtop him from Killing her with a Half-pike.</p>
+            <p>For which he was carried to <hi>New<g ref="char:EOLhyphen"/>gate</hi> the 15th of <hi>May</hi> 1677.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>May</hi> the 16. 1677.</date>
+                           </dateline> 
+                           <signed>Ro. L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>D. M.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:66424:2"/>
+            <pb n="3" facs="tcp:66424:2"/>
+            <head>A CAUTION To Married Couples, <hi>&amp;c.</hi>
+            </head>
+            <p>IF we conſider the ſtrict Obligations which both Nature and Religion lays upon Man and Wife each to other, one would wonder ſuch diſcontents, hatreds, and cruel<g ref="char:EOLhyphen"/>ties ſhould happen between them, as dayly and in every place almoſt we ſee practiſed. But 'tis no miracle if we minde that the grea<g ref="char:EOLhyphen"/>teſt part of men and women take up that ſacred Ordinance, and abuſe that Divine In<g ref="char:EOLhyphen"/>ſtitution by profaning it, and enſlaving them<g ref="char:EOLhyphen"/>ſelves out of particular and unjuſt deſignes:
+<pb n="4" facs="tcp:66424:3"/>So rate it is, but the Devil of covetouſneſs for a good Portion, the unclean Spirit of Luſt for a pretty charming Face, or ſome other ſiniſter Bias interferes and chops in, whilſt Vertue and Equality or Agreement, as well in Fortune and Quality, as Humour (the great or rather onely Cement that can firm<g ref="char:EOLhyphen"/>ly knit the Matrimonial Bond) are ſlighted and neglected. From this infected Spring do all the waters of Bitterneſs, which over<g ref="char:EOLhyphen"/>flow ſo many Families, originally ariſe: which beginning in railing, quarrelling, and fighting, ſeldom conclude without deſtru<g ref="char:EOLhyphen"/>ction to both parties, or what at leaſt is e<g ref="char:EOLhyphen"/>quivalent, to the murther of one.</p>
+            <p>Of this we have juſt now a dreadful Ex<g ref="char:EOLhyphen"/>ample before our faces; which we deſire may be a warning to all men, not to abuſe their Wives, nor in fury to violate the Nu<g ref="char:EOLhyphen"/>ptial Laws, by acting the madmen in beating thoſe whom God and Nature have obliged them to cheriſh and maintain; it being cer<g ref="char:EOLhyphen"/>tain that <hi>Whoſoever pretends juſt cauſe to beat his Wife, deſerves ſeverely to be cudgel<g ref="char:EOLhyphen"/>led himſelf for not cuſing a better.</hi>
+            </p>
+            <pb n="5" facs="tcp:66424:3"/>
+            <p> But to proceed to the too long expected Narrative of this too raſhly executed Fact, the Reader is given to underſtand, That on this 15th of <hi>May</hi> 1677, a certain perſon, by Trade a Lighterman, living not far from the <hi>Armitage,</hi> took ſome impertinent occaſion to quarrel with his VVife; and after ſeveral words (the common Bellows of Sedition) had paſs'd, fell to blows: to avoid which, the poor woman fled out of the houſe, ho<g ref="char:EOLhyphen"/>ping to eſcape her Husband's bruitiſh fury; but he ſeeing her fly, gets down an Half pike and violently purſues her; nor could any body that ſaw him, judge otherwiſe than that he had an intention at that time to have kill'd her, though Fortune directed the un<g ref="char:EOLhyphen"/>happy Paſs another way: For it happened at the ſame fatal moment a certain Tub-man, dwelling on <hi>Salpeter bank</hi> neer <hi>Roſemary-lane,</hi> a perſon frugal induſtrious, and (what is the neceſſary product of thoſe commend<g ref="char:EOLhyphen"/>able qualities) pretty well thriving in the world, paſſing by and wearied with his bur<g ref="char:EOLhyphen"/>then, ſat down on his Tubs juſt againſt this
+<pb n="6" facs="tcp:66424:4"/>perſons door; where obſerving the unna<g ref="char:EOLhyphen"/>tural Cobat between two that were (or at leaſt ſhould be) both one fleſh, and that the <hi>Head</hi> was going to ſpit the <hi>Rib,</hi> to prevent Murther, ſteps in between them, and with fair and gentle words requeſted the man to forbear further beating or abuſing his Wife; who was ſo incenſed thereat, that in the ſame ungovernable poſture he made at him, (I mean the Tub man that endeavour'd to part them) and with one Paſs laid him on the ground ſtone-dead; as well he might, ha<g ref="char:EOLhyphen"/>ving ('tis ſaid) pierced part of his very heart.</p>
+            <p>The woman by this <hi>luckly unluckly</hi> means made her eſcape, and the dead perſon taken up, and all means endeavour'd for his reco<g ref="char:EOLhyphen"/>very, but in vain: for he was gone beyond the retrieval of Art; ſo frequent a thing it is for thoſe that endeavour to quench an un<g ref="char:EOLhyphen"/>ruly Fire to be ſcorched therewith; and thoſe that intermeddle in a Squabble to be more durtied and abuſed than ſuch as origi<g ref="char:EOLhyphen"/>nally begun i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <pb n="7" facs="tcp:66424:4"/>
+            <p> The perſon that did this wicked deed was ſo overcome with Paſſion, that at firſt he could ſcarce be convinc'd he had committed it; but upon examination before a Juſtice, did confeſs, he believ'd he had kill'd the man, but not without provocation, hindring him to correct his Wife, <hi>&amp;c.</hi> A very poor ex<g ref="char:EOLhyphen"/>cuſe! becauſe a Friend or Neighbour ſeeing me in an extravagant Paſſion, endeavours to reclaim me to more quiet and ſobriety, ſhall I therefore kill him? God forbid; but ra<g ref="char:EOLhyphen"/>ther thank him for his good advice and coun<g ref="char:EOLhyphen"/>ſel.</p>
+            <p>But I conceive all ſober and and diſcreet men will abhor ſo bloody a Fact, and learn to live with their Wives in that love and ten<g ref="char:EOLhyphen"/>derneſs that meekneſs and condiſcention each to other, as becomes perſons under ſo ſtrict a Vow, and ſo many ties of Nature, Cuſtom, Intereſt, and Religion; all which are vio<g ref="char:EOLhyphen"/>lated when man and wife live at variance: Nor did I yet (though I have above twenty years curiouſly obſerv'd it) ever know a Couple that thriv'd in the world, who nou<g ref="char:EOLhyphen"/>riſhed
+<pb n="8" facs="tcp:66424:5"/>Debate at home between themſelves; but rather that Loſs, Beggery, and Miſery, and too often Murthers and untimely Ends to ſome of the parties have enſued, as in this lamentable Example is too ſadly apparent; the Husband being at this inſtant a Priſoner in <hi>Newgate,</hi> there to remain for his final Doom next Seſſions, according as the Law ſhall direct.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:66424:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
